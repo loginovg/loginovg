@@ -1,5 +1,5 @@
 # Georgii Loginov
-Hi, I'm Georgii. I'm currently studying at `ITMO University`. I am a Golang developer, specialized in `backend`, currently looking for a full-time job. 
+Hi, I'm Georgii. I'm currently studying at `ITMO University`. I am a Golang developer, specialized in `backend`.
 
 ## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=go,python,c,cpp,redis,postgres,mongodb,kafka,linux,docker,k8s,prometheus,grafana&theme=dark)](https://skillicons.dev)
